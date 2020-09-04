@@ -1,0 +1,3 @@
+[submodule "rainfall"]
+	path = rainfall
+	url = https://github.com/longavailable/ydm-rainfall.git
